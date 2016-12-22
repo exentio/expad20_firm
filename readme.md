@@ -2,7 +2,7 @@
 
 **Hopefully** @andry-dev will like it.  
 
-![alt text](https://raw.githubusercontent.com/exentio/expad20_firmware/master/expad20.jpg "ExPad20")
+![alt text](https://raw.githubusercontent.com/exentio/expad20_firm/master/expad20.jpg "ExPad20")
 
 ## Instructions
 Go inside the keyboards/handwired/expad20 folder, and run `flash.sh`. `sudo` will ask you to enter your password, it's normal: it's necessary to flash the microcontroller. Before you press enter, double press the reset button, and you have 8 seconds to begin flashing.
