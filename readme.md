@@ -1,4 +1,5 @@
-# ExPad 20 firmware - 20-key pad aka best birthday gift ever
+# ExPad 20 firmware
+### 20-key pad aka best birthday gift ever
 
 **Hopefully** @andry-dev will like it.  
 
